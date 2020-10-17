@@ -1,0 +1,26 @@
+recipe
+id, title, calories,fat_cal,total_fat,saturated_fat,...,sugar_per100g, rating
+
+ingrdients
+id, title, ingredient, url
+
+instruction
+id, instruction_number, instruction
+
+tags
+id, tags
+
+users
+username, password, status
+
+dietary_preference
+username, ingredient, status
+
+favorites
+username, id
+
+comments
+username, id, text
+
+feedback
+username, text

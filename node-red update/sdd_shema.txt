@@ -1,10 +1,10 @@
-recipe
+recipes
 id, title, url(from layer1.json) recipe_nutrition(calories,fat_cal,total_fat,saturated_fat,...), recipe_nutrition_per100g(sugar_per100g), rating
 
 ingrdients
 id, title, ingredient, url
 
-instruction
+instructions
 id, instruction_number, instruction
 
 tags

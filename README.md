@@ -9,6 +9,11 @@ Team member names and roles
 - Yifan Wang (Back-end/Database design)
 - Xiaoyu Zhang (Back-end/Search algorithm)
 
+# Useful Group Links
+List of Bugs: https://docs.google.com/document/d/1jUCh5sD1NGmDQPGQBnIscaAFstku-m3ND51kxhtcEUg/edit
+Meeting Agenda: https://docs.google.com/document/d/1mJW8UWMUnrlh8FBEFf_GY9MLaYU6fGM3n-BjViskeRc/edit
+Google Doc: https://drive.google.com/drive/folders/1Utp6vuVRWlJ1fo08iRcTKGQWc1tBq3nr
+
 # How to Launch the program
 
 For winddows:

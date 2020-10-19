@@ -1,0 +1,31 @@
+landin page
+- search bar
+- display all recipes
+- sorting
+
+
+recipe
+- layout
+- use paramters (dynamic)
+- add favrorite
+- consider change url 
+
+
+user profile
+- basic user info (username, change password)
+- preference (tag)
+- allergy
+
+
+menu
+- display all ingredients
+- checklist to all ingredients
+- display all instructions
+- display aggregated nutrition
+
+
+farmers market
+- display all all markets
+- search through city/ state etc
+- pagination (like 25 elements per page)
+- url change

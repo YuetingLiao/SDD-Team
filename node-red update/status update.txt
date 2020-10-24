@@ -25,7 +25,8 @@ menu
 
 
 farmers market
-- display all all markets
+- display all markets
 - search through city/ state etc
 - pagination (like 25 elements per page)
 - url change
+- make the market name a clickable link

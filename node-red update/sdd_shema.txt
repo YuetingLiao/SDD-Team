@@ -14,7 +14,7 @@ users
 username, password, status
 
 dietary_preference
-username, ingredient, status
+username, ingredient, status(perference or allerges)
 
 favorites
 username, id

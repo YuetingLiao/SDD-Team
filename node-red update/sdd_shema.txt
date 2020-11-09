@@ -20,7 +20,11 @@ favorites
 username, id
 
 comments
-username, id, text
+username, recipe id, text
+
+ratings
+username, recipe id, rating
+
 
 feedback
 username, text

@@ -17,8 +17,10 @@ Meeting Agenda: https://docs.google.com/document/d/1mJW8UWMUnrlh8FBEFf_GY9MLaYU6
 Google Doc: https://drive.google.com/drive/folders/1Utp6vuVRWlJ1fo08iRcTKGQWc1tBq3nr
 
 # How to Launch the program
-
-For winddows:
+Prequisites
+- Database contains all tables
+- Downloaded all development tools/softwares
+For windows:
 1. Open command prompt(cmd) 
 2. Type "node-red"
 3. On web brower type "localhost:1880" in url (node-red page)
